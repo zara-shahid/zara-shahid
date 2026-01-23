@@ -71,10 +71,9 @@ Award-winning project from [Hackathon Name] - built in 48 hours using Django, Ne
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarashahid123)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://zarashahid.vercel.app.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zarashahid444@gmail.com)
 
 ---
 
