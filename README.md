@@ -1,17 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Zara+Shahid+👋;Full+Stack+Developer;AI/ML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Zara+Shahid+👋;Full+Stack+Developer;AI/ML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
 </h1>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer passionate about building scalable web applications and leveraging AI/ML to solve real-world problems. I thrive in hackathons and competitive coding environments, constantly pushing the boundaries of what's possible with modern technology.
+I'm a **3rd-year Software Engineering student** and **Full Stack Developer** passionate about building scalable web applications and leveraging AI/ML to solve real-world problems. I thrive in hackathons and competitive coding environments, constantly pushing the boundaries of what's possible with modern technology.
 
-- 🔭 I'm currently working on **Full Stack & AI-powered projects**
-- 🌱 I'm currently exploring **Advanced AI/ML techniques and modern web architectures**
-- 🏆 Actively participating in **International Hackathons & Coding Contests**
-- 💬 Ask me about **Full Stack Development, Django, Next.js, or Generative AI**
-- 📫 How to reach me: **zara-shahid.vercel.app.com**
-- ⚡ Fun fact: **I love the thrill of 48-hour hackathons!**
+- 🎓 **Software Engineering Student** | 3rd Year
+- 🔭 Currently working on **AI-powered Full Stack applications**
+- 🌱 Exploring **Generative AI, LLMs, and advanced web architectures**
+- 🏆 Active participant in **International Hackathons & Coding Contests**
+- 💡 Specialized in **Django + Next.js + Machine Learning**
+- 💬 Ask me about **Full Stack Development, Django REST APIs, Next.js, or Generative AI**
+- 🌐 Portfolio: **[zara-shahid.vercel.app](https://zara-shahid.vercel.app)**
+- ⚡ Fun fact: **I love the adrenaline rush of 48-hour hackathons!**
+
+## 🚀 What I Do
+
+- 🎨 **Frontend Development**: Crafting responsive, modern UIs with Next.js, React, TypeScript, and Tailwind CSS
+- ⚙️ **Backend Development**: Building robust APIs and server-side applications with Django and Django REST Framework
+- 🤖 **AI/ML Integration**: Implementing Generative AI and Machine Learning solutions into real-world applications
+- 💾 **Database Management**: Designing and optimizing databases with MySQL
+- 🏅 **Hackathon Enthusiast**: Rapidly prototyping innovative solutions under pressure
+- 🔧 **Problem Solving**: Solving LeetCode problems daily and tackling complex challenges in competitive coding contests
 
 ## 🛠️ Tech Stack
 
