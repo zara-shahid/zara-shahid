@@ -82,16 +82,24 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
 - 🚀 **Full Stack Specialist** - Building production-ready applications with **Django + Next.js**
 - 🤖 **AI/ML Practitioner** - Integrating **Generative AI & Machine Learning** into real-world solutions
 
-## 🚀 Featured Projects
+## 💡 Featured Work & Impact
 
-### [AI-Powered Web Application](https://github.com/yourusername/project1)
-Full-stack application built with Next.js, Django REST Framework, and integrated Generative AI features. Uses TypeScript for type safety and Tailwind CSS for modern UI.
+Showcasing solutions that make a difference through code and innovation.
 
-### [Machine Learning Project](https://github.com/yourusername/project2)
-ML model development and deployment project showcasing data analysis, model training, and real-world application integration.
+### 🤖 AI-Powered Applications
+Building intelligent systems that leverage LLMs, Generative AI, and ML models to solve real-world challenges. Integrating cutting-edge AI technologies with robust full-stack architectures.
 
-### [Hackathon Winner Project](https://github.com/yourusername/project3)
-Award-winning project from [Hackathon Name] - built in 48 hours using Django, Next.js, and MySQL to solve [problem statement].
+### 🏆 Hackathon Solutions
+Rapid prototyping award-winning projects under tight deadlines - from ideation to deployment in 48 hours. Winner of international hackathons and CS50x Puzzle Day, specializing in building MVPs that impress judges and users alike.
+
+### 🌐 Full-Stack Products
+End-to-end web applications combining modern frontend frameworks (Next.js, React, TypeScript) with robust Django REST backends and MySQL databases. Clean code, scalable architecture, and pixel-perfect UI/UX.
+
+### 🔬 Research & Innovation
+Contributing to cutting-edge research at Non-trivial, exploring new frontiers in software engineering and AI/ML applications. Bridging the gap between academic research and practical implementation.
+
+### 🧩 Competitive Programming
+Daily problem-solving on LeetCode (300+ problems solved) and participation in coding contests. Team ranked 25th in CodeSprint LA 2025, demonstrating strong algorithmic thinking and collaboration skills.
 
 ## 📝 Latest Blog Posts
 
