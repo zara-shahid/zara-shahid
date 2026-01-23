@@ -8,7 +8,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 🌱 I'm currently exploring **Advanced AI/ML techniques and modern web architectures**
 - 🏆 Actively participating in **International Hackathons & Coding Contests**
 - 💬 Ask me about **Full Stack Development, Django, Next.js, or Generative AI**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **zara-shahid.vercel.app.com**
 - ⚡ Fun fact: **I love the thrill of 48-hour hackathons!**
 
 ## 🛠️ Tech Stack
@@ -36,9 +36,9 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?zara-shahid=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?zara-shahid=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
@@ -79,4 +79,4 @@ Award-winning project from [Hackathon Name] - built in 48 hours using Django, Ne
 
 ---
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [Zara Shahid](https://github.com/zara-shahid)
