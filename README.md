@@ -101,13 +101,35 @@ Contributing to cutting-edge research at Non-trivial, exploring new frontiers in
 ### 🧩 Competitive Programming
 Daily problem-solving on LeetCode (300+ problems solved) and participation in coding contests. Team ranked 25th in CodeSprint LA 2025, demonstrating strong algorithmic thinking and collaboration skills.
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to connect with fellow developers and build amazing things together!
+
+**Open to:**
+- 🏆 **Hackathon Teams** - Let's create winning solutions in 48 hours!
+- 💻 **Open Source Contributions** - Especially in AI/ML and full-stack development
+- 🚀 **Startup Collaborations** - Turning innovative ideas into reality
+- 🎓 **Knowledge Sharing** - Discussing Django, Next.js, Generative AI, or competitive programming
+
+**Let's Talk About:**
+- Full-stack development best practices
+- AI/ML integration in web applications
+- Hackathon strategies and rapid prototyping
+- LeetCode problem-solving techniques
+
+**Find me on:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarashahid123)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://zara-shahid.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zarashahid444@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/zara_shahid/)
+[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/zarashahid444)
+[![LabLab](https://img.shields.io/badge/-LabLab-8B5CF6?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACYSURBVHgBnZLBDYAwCEVpnMAJnMAJnMAJnMAJnMAJHEGXcAInsAGfNjGNqYnxJ4SE8vgU4AOaJvQQQgghhBBCCCFE/4wxSimllFJKKaX6MsaYc845Z631/mKtNeccAIwxSimllFJK9WWtZYwBAGvtfmKMsdYCAGOMUkoppZTqyxhDKQUAY8x+4pxjjAEApdT/w1oLAEqp/4e1FgD+5wXpvCXxjCq7+QAAAABJRU5ErkJggg==&logoColor=white)](https://lablab.ai/u/zara_shahid)
+
+---
+
+⭐️ From [zara-shahid](https://github.com/zara-shahid)
 
 ## 🤝 Connect with Me
 
@@ -115,6 +137,6 @@ Daily problem-solving on LeetCode (300+ problems solved) and participation in co
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://zarashahid.vercel.app.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zarashahid444@gmail.com)
 
----
 
-⭐️ From [Zara Shahid](https://github.com/zara-shahid)
+
+
