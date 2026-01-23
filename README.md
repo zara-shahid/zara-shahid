@@ -129,13 +129,9 @@ I'm always excited to connect with fellow developers and build amazing things to
 
 ---
 
-⭐️ From [zara-shahid](https://github.com/zara-shahid)
+![Profile Views](https://komarev.com/ghpvc/?username=zara-shahid&color=blueviolet&style=flat-square)
 
-## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarashahid123)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://zarashahid.vercel.app.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zarashahid444@gmail.com)
 
 
 
