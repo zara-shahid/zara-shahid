@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there, I'm Zara Shahid 👋
 
-<!--
-**zara-shahid/zara-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer passionate about building scalable web applications and leveraging AI/ML to solve real-world problems. I thrive in hackathons and competitive coding environments, constantly pushing the boundaries of what's possible with modern technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Full Stack & AI-powered projects**
+- 🌱 I'm currently exploring **Advanced AI/ML techniques and modern web architectures**
+- 🏆 Actively participating in **International Hackathons & Coding Contests**
+- 💬 Ask me about **Full Stack Development, Django, Next.js, or Generative AI**
+- 📫 How to reach me: **[your.email@example.com]**
+- ⚡ Fun fact: **I love the thrill of 48-hour hackathons!**
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### AI/ML & Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Active participant in **International Hackathons**
+- 💻 Full Stack Developer specializing in **Django + Next.js**
+- 🤖 Building projects with **Generative AI & Machine Learning**
+- 🚀 Passionate about creating innovative solutions in competitive environments
+
+## 🚀 Featured Projects
+
+### [AI-Powered Web Application](https://github.com/yourusername/project1)
+Full-stack application built with Next.js, Django REST Framework, and integrated Generative AI features. Uses TypeScript for type safety and Tailwind CSS for modern UI.
+
+### [Machine Learning Project](https://github.com/yourusername/project2)
+ML model development and deployment project showcasing data analysis, model training, and real-world application integration.
+
+### [Hackathon Winner Project](https://github.com/yourusername/project3)
+Award-winning project from [Hackathon Name] - built in 48 hours using Django, Next.js, and MySQL to solve [problem statement].
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](https://yourblog.com/post1)
+- [Blog Post Title 2](https://yourblog.com/post2)
+- [Blog Post Title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+⭐️ From [YourUsername](https://github.com/yourusername)
