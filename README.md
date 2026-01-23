@@ -1,4 +1,6 @@
-#<h1 align="center">Hi there, I'm Zara Shahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Zara+Shahid+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
+</h1>
 
 ## About Me
 
