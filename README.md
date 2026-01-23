@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Zara+Shahid+👋;Full+Stack+Developer;AI/ML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Zara+Shahid+👋;Software+Engineer;Full+Stack+Developer;AI/ML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
 </h1>
+
 
 ## 👨‍💻 About Me
 
@@ -130,6 +131,10 @@ I'm always excited to connect with fellow developers and build amazing things to
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zara-shahid&color=blueviolet&style=flat-square)
+
+---
+
+> "The only way to do great work is to love what you do." – Steve Jobs
 
 
 
