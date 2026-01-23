@@ -41,7 +41,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zara-shahid&theme=radical)
 
 ## 🏆 Achievements & Highlights
 
