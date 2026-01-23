@@ -73,10 +73,14 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 Active participant in **International Hackathons**
-- 💻 Full Stack Developer specializing in **Django + Next.js**
-- 🤖 Building projects with **Generative AI & Machine Learning**
-- 🚀 Passionate about creating innovative solutions in competitive environments
+- 🥇 **International Hackathon Winner** - Secured 1st place in a global hackathon competition
+- 🧩 **CS50x Puzzle Day Winner** - Achieved victory in Harvard's CS50x Puzzle Day challenge
+- 🏅 **CodeSprint LA 2025** - Team ranked **25th** in the competitive coding contest
+- 💻 **LeetCode Enthusiast** - Solved **300+ problems** and counting
+- 🔬 **Research Experience** - Worked as a researcher at **Non-trivial**
+- ⚡ **Speed Typist** - Typing speed of **70+ WPM** for rapid development
+- 🚀 **Full Stack Specialist** - Building production-ready applications with **Django + Next.js**
+- 🤖 **AI/ML Practitioner** - Integrating **Generative AI & Machine Learning** into real-world solutions
 
 ## 🚀 Featured Projects
 
