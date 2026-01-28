@@ -13,7 +13,7 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
 - 🏆 Active participant in **International Hackathons & Coding Contests**
 - 💡 Specialized in **Django + Next.js + Machine Learning**
 - 💬 Ask me about **Full Stack Development, Django REST APIs, Next.js, or Generative AI**
-- 🌐 Portfolio: **[zara-shahid.vercel.app](https://zarashahid.vercel.app)**
+- 🌐 Portfolio: **[zarashahid.vercel.app](https://zarashahid.vercel.app)**
 - ⚡ Fun fact: **I love the adrenaline rush of 48-hour hackathons!**
 
 ## 🚀 What I Do
