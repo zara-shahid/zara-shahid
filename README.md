@@ -78,6 +78,23 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zara-shahid&theme=radical)
 
+## 📈 Contribution Activity
+ 
+[![Zara's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zara-shahid&theme=redical&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true)](https://github.com/zara-shahid)
+
+
+## 📋 Profile Summary
+ 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zara-shahid&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zara-shahid&theme=radical&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zara-shahid&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zara-shahid&theme=radical" />
+</p>
+## 🗓️ 3D Contribution Calendar
+ 
+[![3D Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zara-shahid&theme=radical)](https://github.com/zara-shahid)
+
 ## 🏆 Achievements & Highlights
 
 - 🥇 **International Hackathon Winner** - Secured 1st place in a global hackathon competition
