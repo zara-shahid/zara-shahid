@@ -69,10 +69,6 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
   <img src="https://github-profile-trophy.vercel.app/?username=zara-shahid&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zara-shahid&show_icons=true&theme=radical&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zara-shahid&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
