@@ -63,6 +63,12 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+## 🏆 GitHub Trophies
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zara-shahid&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zara-shahid&show_icons=true&theme=radical&v=1)
