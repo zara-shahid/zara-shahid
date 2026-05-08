@@ -131,6 +131,7 @@ I'm always excited to connect with fellow developers and build amazing things to
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zara-shahid&color=blueviolet&style=flat-square)
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/zara-shahid.svg)](https://committers.top/pakistan_public)
 
 ---
 
