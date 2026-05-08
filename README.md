@@ -87,9 +87,10 @@ I'm a **3rd-year Software Engineering student** and **Full Stack Developer** pas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zara-shahid&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zara-shahid&theme=radical" />
 </p>
+
 ## 🗓️ 3D Contribution Calendar
- 
-[![3D Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zara-shahid&theme=radical)](https://github.com/zara-shahid)
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🏆 Achievements & Highlights
 
