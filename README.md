@@ -120,7 +120,7 @@ End-to-end web applications combining modern frontend frameworks (Next.js, React
 Contributing to cutting-edge research at Non-trivial, exploring new frontiers in software engineering and AI/ML applications. Bridging the gap between academic research and practical implementation.
 
 ### 🧩 Competitive Programming
-Daily problem-solving on LeetCode (300+ problems solved) and participation in coding contests. Team ranked 25th in CodeSprint LA 2025, demonstrating strong algorithmic thinking and collaboration skills.
+Daily problem-solving on LeetCode (300+ problems solved) and participation in coding contests. Team ranked 25th in CodeSprint LA 2025, demonstrating strong algorithmic thinking and collaboration skills
 
 
 ## 🤝 Let's Connect & Collaborate
