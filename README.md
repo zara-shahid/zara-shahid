@@ -3,7 +3,7 @@
 </h1>
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About 
 
 I'm a **3rd-year Software Engineering student** and **Full Stack Developer** passionate about building scalable web applications and leveraging AI/ML to solve real-world problems. I thrive in hackathons, and competitive coding environments, constantly pushing the boundaries of what's possible with modern technology.
 
