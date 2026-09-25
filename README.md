@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Zara+Shahid+👋;Software+Engineer;Full+Stack+Developer;AI/ML+Enthusiast;Hackathon+Participant" alt="Typing SVG" />
 </h1>
 
-
 ## 👨‍💻 About Me
 
 I'm a **3rd-year Software Engineering student** and **Full Stack Developer** passionate about building scalable web applications and leveraging AI/ML to solve real-world problems. I thrive in hackathons, and competitive coding environments, constantly pushing the boundaries of what's possible with modern technology.
